@@ -1,4 +1,4 @@
-#Bem vindo Doutores e Doutoras!
+#Sejam bem vindo(a) Doutores(as)!
 
     Exercícios disponibilizados para aprendizado mútuo, qualquer dúvida ou dicas fiquem avontade para comentar.
 
